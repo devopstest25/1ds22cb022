@@ -9,4 +9,4 @@ div = a / b
 print("Sum = " + str(sum_result))
 print("\nDifference = " + str(diff))
 print("\nMultiplication = " + str(mul))
-print("\nDivision = " + str(div))
+print("\nDivision = " + str(div) + "\n")
