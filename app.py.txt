@@ -1,0 +1,10 @@
+a = 2
+b = 3
+sum = a + b
+diff = b - a
+mul = a*b
+div = a/b
+print("Sum = " + sum)
+print(" \n Difference = " + diff)
+print(" \n Multiplication = " + mul)
+print(" \n Division  = " + div)
